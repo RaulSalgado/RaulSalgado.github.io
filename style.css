@@ -1,0 +1,161 @@
+.contenedor {
+    border-radius: 50px;
+    background-color: blueviolet;
+    height: auto;
+    margin: -0%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Somos {
+    font-family: sans-serif;
+    height: auto;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.somos1{
+    position: relative;
+    bottom: 670px;
+}
+
+.img {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    left: 100px;
+
+}
+
+.tabla {
+    height: auto;
+    margin: 0%;
+    margin-left: 3%;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.creador {
+    width: 350px;
+    height: 350px;
+}
+.creador:hover{
+    transform:scale(0.5);
+    z-index:2;
+}
+
+ul {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    padding: 0%;
+    color: blueviolet;
+}
+
+
+li {
+    float: left;
+    color: #8a2be2;
+    margin-inline: 5%;
+}
+
+.linea1 {
+    position: relative;
+    bottom: 370px;
+    border-radius: 50px;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+p{
+    font-family:sans-serif
+}
+
+.registro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: -800px;
+    margin-top: -300px;
+    margin-bottom: 200px;
+    background-color:#8a2be2;
+    border-radius: 50px;
+    text-align: center
+    
+}
+
+.registro2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: -800px;
+    margin-top: -300px;
+    margin-bottom: 200px;
+    border-radius: 50px;
+    text-align: center
+    
+}
+
+
+.Imputs{
+    margin-top:-150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.correo{
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    margin-left:10px;
+    left:50px;
+    font-family: 'Poppins', sans-serif;
+    }
+
+.tabla2 {
+        height: auto;
+        margin: 0%;
+        margin-left: 3%;
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        bottom: 500px;
+    }
+
+    .tabla3 {
+        height: auto;
+        margin: 0%;
+        margin-left: 3%;
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        bottom: 1500px;
+    }
